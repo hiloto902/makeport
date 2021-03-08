@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "949358592546",
+    "project_id": "icehockey-944bc",
+    "storage_bucket": "icehockey-944bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949358592546:android:ea57bc5b0e400ae4a7407b",
+        "android_client_info": {
+          "package_name": "com.example.two_icehockey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949358592546-3fjrul6161sefj8c9jeouoio79r53be8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfUxi8Wo6T5QnzC-fhcxYKHs4bDAxfJaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949358592546-3fjrul6161sefj8c9jeouoio79r53be8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
